@@ -1,0 +1,4 @@
+name: Windows
+description: Cattle for Windows Server 2016
+version: v0.0.1
+category: Orchestration
